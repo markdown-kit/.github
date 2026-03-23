@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/markdown-kit/.github/main/media/markdownkit-logo.svg" alt="markdown-kit" width="88" height="36">
+
 # markdown-kit
 
 **Composable tooling for Markdown, MDX, MDC, and MDD workflows**
